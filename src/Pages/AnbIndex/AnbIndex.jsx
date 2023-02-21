@@ -1,7 +1,9 @@
-import React from 'react'
+import React from "react";
 
 export default function AnbIndex() {
   return (
-    <div>hello</div>
-  )
+    <div>
+      <h1>Hello</h1>
+    </div>
+  );
 }
